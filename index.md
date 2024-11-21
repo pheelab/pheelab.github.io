@@ -28,7 +28,7 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/endomaster.jpg"
   link="research"
   title="Our Research"
   text=text
