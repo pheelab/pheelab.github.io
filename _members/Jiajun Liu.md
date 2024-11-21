@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Jiajun Liu
 image: images/photo.jpg
 role: phd
 group: alum
