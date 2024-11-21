@@ -1,8 +1,8 @@
 ---
 name: Jiajun Liu
 image: images/photo.jpg
-role: PI
-group: alum
+role: pi
+affiliation: Nanyang Technological University
 links:
   github: john-doe
 ---
