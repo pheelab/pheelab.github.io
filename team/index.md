@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-这个team很牛逼 ，未来都是亿万富翁
+Our current research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {% include section.html %}
 
