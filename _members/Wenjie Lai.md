@@ -2,19 +2,13 @@
 name: Wenjie Lai
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: Nanyang Technological University
 aliases:
-  - J. Smith
-  - J Smith
+  - W. Lai
+  - W Lai
 links:
-  home-page: https://janesmith.com
+  home-page: [https://janesmith.com](https://scholar.google.com/citations?user=mSZ3zuYAAAAJ&hl=en&authuser=1&oi=ao)
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Wenjie Wenjie Wenjie  
