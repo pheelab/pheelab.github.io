@@ -1,7 +1,7 @@
 ---
 name: Jiajun Liu
 image: images/photo.jpg
-role: phd
+role: PI
 group: alum
 links:
   github: john-doe
