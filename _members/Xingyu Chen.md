@@ -1,7 +1,6 @@
 ---
 name: Xingyu Chen
 image: images/photo.jpg
-role: pi
 affiliation: Nanyang Technological University
 aliases:
   - X. Chen
