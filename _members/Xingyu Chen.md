@@ -1,6 +1,7 @@
 ---
 name: Xingyu Chen
 image: images/photo.jpg
+role: ra
 affiliation: Nanyang Technological University
 aliases:
   - X. Chen

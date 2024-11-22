@@ -1,7 +1,7 @@
 ---
 name: Davis Nguyen
 image: images/photo.jpg
-role: Research Fellow
+role: rf
 affiliation: Nanyang Technological University
 aliases:
   - D Nguyen

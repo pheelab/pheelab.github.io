@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our current research works focus on Medical Robotics and Mechatronics in Medicine.
+Our current research works focus on Medical Robotics, Soft Robotics and Mechatronics in Medicine.
 
 {% include section.html %}
 

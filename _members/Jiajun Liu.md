@@ -1,7 +1,7 @@
 ---
 name: Jiajun Liu
 image: images/photo.jpg
-role: Research Fellow
+role: rf
 affiliation: Nanyang Technological University
 links:
   github: john-doe

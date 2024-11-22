@@ -1,7 +1,7 @@
 ---
 name: Zhe Liu
 image: images/photo.jpg
-role: Research Fellow
+role: rf
 affiliation: Nanyang Technological University
 links:
   orcid: 0000-0001-8713-9213
