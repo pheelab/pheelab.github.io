@@ -36,81 +36,81 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://www.google.com/maps/place/Nanyang+Technological+University+-+NTUitive+Pte+Ltd/@1.3483827,103.6816786,15z/data=!4m6!3m5!1s0x31da0fa0bd8188ff:0xd2504cefa8164b99!8m2!3d1.3483827!4d103.6816786!16s%2Fg%2F11j00sf0sz?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
 %}
 
-[//]: # ()
-[//]: # ({% include section.html %})
 
-[//]: # ()
-[//]: # ({% capture col1 %})
+{% include section.html %}
 
-[//]: # ()
-[//]: # ({%)
 
-[//]: # (  include figure.html)
+{% capture col1 %}
 
-[//]: # (  image="images/photo.jpg")
 
-[//]: # (  caption="Lorem ipsum")
+{%
 
-[//]: # (%})
+  include figure.html
 
-[//]: # ()
-[//]: # ({% endcapture %})
+  image="images/photo.jpg"
 
-[//]: # ()
-[//]: # ({% capture col2 %})
+  caption="Lorem ipsum"
 
-[//]: # ()
-[//]: # ({%)
+%}
 
-[//]: # (  include figure.html)
 
-[//]: # (  image="images/photo.jpg")
+{% endcapture %}
 
-[//]: # (  caption="Lorem ipsum")
 
-[//]: # (%})
+{% capture col2 %}
 
-[//]: # ()
-[//]: # ({% endcapture %})
 
-[//]: # ()
-[//]: # ({% include cols.html col1=col1 col2=col2 %})
+{%
 
-[//]: # ()
-[//]: # ({% include section.html dark=true %})
+  include figure.html
 
-[//]: # ()
-[//]: # ({% capture col1 %})
+  image="images/photo.jpg"
 
-[//]: # (Lorem ipsum dolor sit amet  )
+  caption="Lorem ipsum"
 
-[//]: # (consectetur adipiscing elit  )
+%}
 
-[//]: # (sed do eiusmod tempor)
 
-[//]: # ({% endcapture %})
+{% endcapture %}
 
-[//]: # ()
-[//]: # ({% capture col2 %})
 
-[//]: # (Lorem ipsum dolor sit amet  )
+{% include cols.html col1=col1 col2=col2 %}
 
-[//]: # (consectetur adipiscing elit  )
 
-[//]: # (sed do eiusmod tempor)
+{% include section.html dark=true %}
 
-[//]: # ({% endcapture %})
 
-[//]: # ()
-[//]: # ({% capture col3 %})
+{% capture col1 %}
 
-[//]: # (Lorem ipsum dolor sit amet  )
+Lorem ipsum dolor sit amet  
 
-[//]: # (consectetur adipiscing elit  )
+consectetur adipiscing elit  
 
-[//]: # (sed do eiusmod tempor)
+sed do eiusmod tempor
 
-[//]: # ({% endcapture %})
+{% endcapture %}
 
-[//]: # ()
-[//]: # ({% include cols.html col1=col1 col2=col2 col3=col3 %})
+
+{% capture col2 %}
+
+Lorem ipsum dolor sit amet  
+
+consectetur adipiscing elit  
+
+sed do eiusmod tempor
+
+{% endcapture %}
+
+
+{% capture col3 %}
+
+Lorem ipsum dolor sit amet  
+
+consectetur adipiscing elit  
+
+sed do eiusmod tempor
+
+{% endcapture %}
+
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
