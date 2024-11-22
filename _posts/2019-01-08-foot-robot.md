@@ -24,21 +24,17 @@ In most robotic flexible endoscopic systems, the endoscope and instruments are c
 **Paper:** Huang, Yanpei, et al. "A three-limb teleoperated robotic system with foot control for flexible endoscopic surgery."  [Annals of Biomedical Engineering 49 (2021): 2282-2296.](https://link.springer.com/article/10.1007/s10439-021-02766-3)
 
 ---
-
 ## Gallery
 
-![Ex-vivo test setup](https://pheelab.github.io/images/ex-vivo.jpg)  
-*Figure: Ex-vivo test setup.*  
-<center>Figure: Ex-vivo test setup.</center>
-
+![Ex-vivo test setup](https://pheelab.github.io/images/ex-vivo.jpg)
+<center>*Figure: Ex-vivo test setup.* </center>
 
 ---
 
 ## Contact
 
 For more information about this project, please reach out to:
-
 **Dr. Wenjie Lai**
 [Email: wjlai@ntu.edu.sg](mailto:wjlai@ntu.edu.sg)
 
-*(c) Pheelab. All rights reserved.*
+*(c)  Pheelab. All rights reserved.*
