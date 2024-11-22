@@ -1,13 +1,20 @@
 ---
 title: Foot-controlled Human-Machine Interface for Robotic Surgery
-author: sarah-johnson
+image: images/foot.jpg
 tags:
-  - biology
-  - medicine
-  - big data
+  - Surgical Robot
+  - Human-Machine Interface
 ---
 
-# Foot-Controlled Interface for Robotic Surgery
+
+
+
+# Foot-controlled Human-Machine Interface for Robotic Surgery
+
+
+In most robotic flexible endoscopic systems, the endoscope and instruments are controlled separately by two operators, which may result in communication errors and inefficient operation. Our solution is to enable the surgeon to control both the endoscope and the instruments. We developed a novel teleoperation robotic endoscopic system commanded by one operator using the continuous and simultaneous movements of their two hands and one foot. This 13-degree-of-freedom (DoF) system integrates a foot-controlled robotic flexible endoscope and two hand-controlled robotic endoscopic instruments, a robotic grasper and a robotic cauterizing hook. A dedicated foot interface transfers the natural foot movements to the 4-DoF movements of the endoscope while two other commercial hand interfaces map the movements of the two hands to the two instruments individually. The foot-controlled interface can also be used to control industrial robotic arms by the foot.
+
+![Crepe](https://pheelab.github.io/images/foot.png){: .mx-auto.d-block :}
 
 ## Overview
 
@@ -87,11 +94,9 @@ This project is a collaboration between:
 
 For more information about this project, please reach out to:
 
-**Dr. John Doe**  
-Principal Investigator  
-[Email: john.doe@example.com](mailto:john.doe@example.com)  
-[Website: Robotics Lab](https://www.example-robotics-lab.com)
+**Dr. Wenjie Lai**
+[Email: wjlai@ntu.edu.sg](mailto:wjlai@ntu.edu.sg)
 
 ---
 
-*(c) 2024 Robotics Research Laboratory. All rights reserved.*
+*(c) Pheelab. All rights reserved.*
