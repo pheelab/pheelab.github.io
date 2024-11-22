@@ -17,24 +17,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="msjphee@ntu.edu.sg"
   link="msjphee@ntu.edu.sg"
 %}
-
-[//]: # ({%)
-
-[//]: # ()
-[//]: # (  include button.html)
-
-[//]: # ()
-[//]: # (  type="phone")
-
-[//]: # ()
-[//]: # (  text="&#40;555&#41; 867-5309")
-
-[//]: # ()
-[//]: # (  link="+1-555-867-5309")
-
-[//]: # ()
-[//]: # (%})
-
+<!--
+{%
+  include button.html
+  type="phone"
+  text="(555) 867-5309"
+  link="+1-555-867-5309"
+%}
+-->
 {%
   include button.html
   type="address"
