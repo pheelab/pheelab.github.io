@@ -1,3 +1,12 @@
+---
+title: Foot-controlled Human-Machine Interface for Robotic Surgery
+author: sarah-johnson
+tags:
+  - biology
+  - medicine
+  - big data
+---
+
 # Foot-Controlled Interface for Robotic Surgery
 
 ## Overview
