@@ -27,7 +27,7 @@ In most robotic flexible endoscopic systems, the endoscope and instruments are c
 
 ## Gallery
 
-![Foot-Controlled Interface Prototype](https://pheelab.github.io/images/exvivo.jpg)  
+![Foot-Controlled Interface Prototype](https://pheelab.github.io/images/ex-vivo.jpg)  
 *Figure: Ex-vivo test setup.*  
 
 ![Interface in Surgical Simulation](images/interface-simulation.jpg)  
