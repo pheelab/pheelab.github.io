@@ -18,17 +18,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="msjphee@ntu.edu.sg"
 %}
 
-[//]: # ({%)
+{%
 
-[//]: # (  include button.html)
+  include button.html
 
-[//]: # (  type="phone")
+  type="phone"
 
-[//]: # (  text="&#40;555&#41; 867-5309")
+  text="(555) 867-5309"
 
-[//]: # (  link="+1-555-867-5309")
+  link="+1-555-867-5309"
 
-[//]: # (%})
+%}
 {%
   include button.html
   type="address(NTUitive)"
