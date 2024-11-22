@@ -27,7 +27,7 @@ In most robotic flexible endoscopic systems, the endoscope and instruments are c
 ## Gallery
 
 ![Ex-vivo test setup](https://pheelab.github.io/images/ex-vivo.jpg)
-<center>*Figure: Ex-vivo test setup.* </center>
+<center>Figure: Ex-vivo test setup. </center>
 
 ---
 
