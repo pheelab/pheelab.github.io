@@ -36,10 +36,10 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {% capture text %}
 
-Magnetically Actuated Ingestible Weight Management Capsule
-Advanced Medical Robotics for Minimally Invasive Surgery
-Project 8 - An Extra Dimension of Grasping
-Robotic Thyroidectomy
+* Magnetically Actuated Ingestible Weight Management Capsule
+* Advanced Medical Robotics for Minimally Invasive Surgery
+* Project 8 - An Extra Dimension of Grasping
+* Robotic Thyroidectomy
 
 {%
   include button.html
