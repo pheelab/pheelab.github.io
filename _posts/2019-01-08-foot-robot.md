@@ -31,10 +31,5 @@ In most robotic flexible endoscopic systems, the endoscope and instruments are c
 
 ---
 
-## Contact
-
-For more information about this project, please reach out to:
-**Dr. Wenjie Lai**
-[Email: wjlai@ntu.edu.sg](mailto:wjlai@ntu.edu.sg)
 
 *(c)  Pheelab. All rights reserved.*
