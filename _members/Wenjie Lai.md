@@ -1,7 +1,7 @@
 ---
 name: Wenjie Lai
 image: images/photo.jpg
-#role: pi
+role: Research Fellow
 affiliation: Nanyang Technological University
 aliases:
   - W. Lai
