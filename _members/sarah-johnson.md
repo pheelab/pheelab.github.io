@@ -2,6 +2,7 @@
 name: Sarah Johnson
 image: images/photo.jpg
 description: Lead Programmer
+order: 6
 role: programmer
 links:
   email: sarah.johnson@gmail.com
