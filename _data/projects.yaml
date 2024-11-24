@@ -2,11 +2,12 @@
   subtitle:
   group: featured
   image: images/photo.jpg
-  link: https://pheelab.github.io/_works/foot
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://pheelab.github.io/2019/01/08/foot-robot.html
+  description: A novel teleoperation robotic endoscopic system commanded by one operator using the continuous and simultaneous movements of their two hands and one foot.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - surgical-robot
+    - HMI
 
 - title: Cool Package
   subtitle: a subtitle
