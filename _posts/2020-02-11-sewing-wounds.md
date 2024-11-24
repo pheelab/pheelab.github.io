@@ -1,6 +1,6 @@
 ---
 title: Sewing up the Wounds： A Robotic Suturing System for Flexible Endoscopy
-image: images/foot.jpg
+image: images/sewingup.jpg
 tags:
   - Surgical Robot
 ---
