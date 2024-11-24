@@ -54,7 +54,7 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {%
   include feature.html
-  image="images/endomaster.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
