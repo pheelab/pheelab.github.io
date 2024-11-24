@@ -1,8 +1,8 @@
 ---
-name: John Doe
+name: Jiajun Liu
 image: images/photo.jpg
-role: phd
-group: alum
+role: rf
+affiliation: Nanyang Technological University
 links:
   github: john-doe
 ---
