@@ -29,6 +29,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include figure.html image="images/group photo1.jpg" %}
 {% include figure.html image="images/group photo2.jpg" %}
+{% include figure.html image="images/group photo3.jpg" %}
 
 
 {% endcapture %}
