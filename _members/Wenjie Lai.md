@@ -10,7 +10,7 @@ aliases:
 links:
   email: wjlai@ntu.edu.sg
   google-scholar: mSZ3zuYAAAAJ&hl
-  orcid: 0000-0001-8713-9213
+  orcid: /0000-0002-6020-107X
 ---
 
 Wenjie Wenjie Wenjie  
