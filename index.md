@@ -64,7 +64,7 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {% capture text %}
 
-First, do no harm, and now we're combining cybernetics and medicine!
+Our team is composed of talented researchers and students from diverse backgrounds.
 
 {%
   include button.html
