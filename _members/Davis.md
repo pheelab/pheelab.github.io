@@ -7,7 +7,6 @@ aliases:
   - D Nguyen
 links:
   email: davis.nguyen@ntu.edu.sg
-  orcid: 0000-0001-8713-9213
   google-scholar: wlo9D2UAAAAJ&hl
 ---
 DavisDavisDavisDavisDavis
