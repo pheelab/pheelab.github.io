@@ -12,7 +12,7 @@ Our current research works focus on Medical Robotics, Soft Robotics and Mechatro
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'rf'" %}
-{% include list.html data="members" component="portrait" filter="role == 'ra'" %}
+{% include list.html data="members" component="portrait" filter="role == 'rf'" %}
 {% include list.html data="members" component="portrait" filter="role != 'rf'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -21,13 +21,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+---
+## Gallery
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/group photo1.jpg" %}
+{% include figure.html image="images/group photo2.jpg" %}
+
 
 {% endcapture %}
 
