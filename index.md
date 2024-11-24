@@ -64,7 +64,7 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+First, do no harm, and now we're combining cybernetics and medicine!
 
 {%
   include button.html
@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/endomaster.jpg"
+  image="images/teams.jpg"
   link="team"
   title="Our Team"
   text=text
