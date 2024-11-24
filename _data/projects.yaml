@@ -1,23 +1,23 @@
 - title: Foot-controlled Human-Machine Interface for Robotic Surgery
   subtitle:
   group: featured
-  image: images/photo.jpg
+  image: images/foot.jpg
   link: https://pheelab.github.io/2019/01/08/foot-robot.html
   description: A novel teleoperation robotic endoscopic system commanded by one operator using the continuous and simultaneous movements of their two hands and one foot.
-  repo: greenelab/lab-website-template
+#  repo: greenelab/lab-website-template
   tags:
     - surgical-robot
     - HMI
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Sewing up the Wounds
+  subtitle: A Robotic Suturing System for Flexible Endoscopy
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/sewingup.jpg
+  link: https://pheelab.github.io/2020/02/11/sewing-wounds.html
+  description: a flexible endoscopic surgical robot to securely close the perforation by suturing - the gold standard of perforation closure. The tiny, dexterous robotic arms are inserted into the digestive tract via natural orifices (e.g., mouth or anus) and they are teleoperated by the clinician to repair the perforation.
+#  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - surgical-robot
 
 - title: Cool Tutorial
   subtitle: a subtitle
