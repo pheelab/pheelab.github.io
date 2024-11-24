@@ -8,7 +8,7 @@ aliases:
   - W Lai
 links:
   email: wjlai@ntu.edu.sg
-  google-scholar: mSZ3zuYAAAAJ&hl=zh-CN&oi=ao
+  google-scholar: mSZ3zuYAAAAJ&hl
   orcid: 0000-0001-8713-9213
 ---
 
