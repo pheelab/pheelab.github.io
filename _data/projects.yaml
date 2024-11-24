@@ -19,17 +19,15 @@
   tags:
     - surgical-robot
 
-
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Magnet-actuated capsule for Weight Management
+  subtitle:
+  image: images/magnet.jpg
+  link: https://pheelab.github.io/2020/01/01/magnet-capsule.html
+  description: a novel tetherless, magnetically actuated capsule (EndoPil) which can deploy an IGB inside the stomach after being swallowed and being activated by an external magnet.
+#  repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - surgical-robot
+
 
 - title: Cool Web App
   subtitle: a subtitle
