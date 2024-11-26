@@ -35,40 +35,54 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+[//]: # ()
+[//]: # ({% capture col1 %})
 
-{% capture col1 %}
+[//]: # ()
+[//]: # ()
+[//]: # ({%)
 
+[//]: # ()
+[//]: # (  include figure.html)
 
-{%
+[//]: # ()
+[//]: # (  image="images/photo.jpg")
 
-  include figure.html
+[//]: # ()
+[//]: # (  caption="Lorem ipsum")
 
-  image="images/photo.jpg"
+[//]: # ()
+[//]: # (%})
 
-  caption="Lorem ipsum"
+[//]: # ()
+[//]: # ()
+[//]: # ({% endcapture %})
 
-%}
+[//]: # ()
+[//]: # ()
+[//]: # ({% capture col2 %})
 
+[//]: # ()
+[//]: # ()
+[//]: # ({%)
 
-{% endcapture %}
+[//]: # ()
+[//]: # (  include figure.html)
 
+[//]: # ()
+[//]: # (  image="images/photo.jpg")
 
-{% capture col2 %}
+[//]: # ()
+[//]: # (  caption="Lorem ipsum")
 
+[//]: # ()
+[//]: # (%})
 
-{%
+[//]: # ()
+[//]: # ()
+[//]: # ({% endcapture %})
 
-  include figure.html
-
-  image="images/photo.jpg"
-
-  caption="Lorem ipsum"
-
-%}
-
-
-{% endcapture %}
-
+[//]: # ()
 
 {% include cols.html col1=col1 col2=col2 %}
 
