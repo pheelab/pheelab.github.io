@@ -10,4 +10,4 @@ links:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Jiajun Liu received the Ph.D. degree in mechanical and aerospace engineering from Nanyang Technological University (NTU), Singapore. He is a Research Fellow with the Robotics Research Center, MAE, NTU. His research interests include modeling of continuum robots, soft robotics, and surgical robotics.
