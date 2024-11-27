@@ -1,11 +1,11 @@
 ---
-title: From Research to Startups
+title: Spinoff
 nav:
   order: 2
 
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}From Research to Startups
 
 ProjectsProjectsProjectsProjectsProjectsProjectsProjects
 
