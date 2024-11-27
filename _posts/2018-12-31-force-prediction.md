@@ -1,13 +1,12 @@
 ---
 title: Deep learning for haptic force estimation
-image: images/forcesensor.jpg
-author: Wenjie Lai
+image: images/forceprediction.jpg
 
 ---
 
 ### Distal-end force prediction of tendon-sheath mechanisms for flexible endoscopic surgical robots using deep learning
 
-![Crepe](https://pheelab.github.io/images/forcesensor.jpg){:.mx-auto.d-block}
+![Crepe](https://pheelab.github.io/images/forceprediction.jpg){:.mx-auto.d-block}
 
 ![Force sensor](https://pheelab.github.io/images/forcesensor.jpg){:.center}
 
