@@ -1,6 +1,6 @@
 ---
 name: Xingyu Chen
-image: images/photo.jpg
+image: images/xingyu.jpg
 order: 5
 role: ra
 affiliation: Nanyang Technological University

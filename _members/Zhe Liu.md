@@ -1,6 +1,6 @@
 ---
 name: Zhe Liu
-image: images/photo.jpg
+image: images/zheliu.jpg
 order: 4
 role: rf
 affiliation: Nanyang Technological University
