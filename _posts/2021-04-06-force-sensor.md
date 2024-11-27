@@ -1,6 +1,7 @@
 ---
 title: Robotic flexible endoscopic grasper with a three-axis force sensor
 image: images/forcesensor.jpg
+author: wenjie lai
 tags:
   - Surgical Robot
   - Force Feedback
