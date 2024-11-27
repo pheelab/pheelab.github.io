@@ -36,5 +36,3 @@ nav:
 %}
 
 
-{% include section.html %}
-
