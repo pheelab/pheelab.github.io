@@ -1,6 +1,6 @@
 - title: Endomaster
   subtitle:
-  group: featured
+  group: spinoff
   image: images/endomaster.jpg
   link: https://www.ntu.edu.sg/research/research-hub/news/detail/putting-research-to-work-prof-louis-phee
   description:  a novel robotic-assisted surgical system for endoscopy that will significantly advance current endoscopic surgeries and enable surgeons to perform incision-less surgeries that could only be performed by open and laparoscopic surgery before.
@@ -8,7 +8,7 @@
 
 - title: EndoPil
   subtitle: An ingestible weight control capsule
-  group: featured
+  group: spinoff
   image: images/endomaster.jpg
   link: https://nuhsplus.edu.sg/article/endopil-an-ingestible-weight-control-capsule
   description: An ingestible weight control capsule that can be activated by an external magnet to deploy an intragastric balloon inside the stomach.

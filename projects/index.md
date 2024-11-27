@@ -15,9 +15,9 @@ ProjectsProjectsProjectsProjectsProjectsProjectsProjects
 
 {% include section.html %}
 
-## Featured
+## spinoff
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'spinoff'" %}
 
 {% include section.html %}
 
