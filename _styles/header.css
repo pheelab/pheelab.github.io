@@ -1,4 +1,3 @@
-@charset "UTF-8";
 header {
   display: flex;
   justify-content: space-between;
@@ -32,13 +31,8 @@ header a {
 }
 
 .logo > * {
-  width: unset;
+  width: auto;
   height: 100%;
-}
-
-.large-logo {
-  width: 300px; /* 或其他你想要的大尺寸 */
-  height: auto;
 }
 
 .title-text {
