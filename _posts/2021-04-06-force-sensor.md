@@ -8,7 +8,7 @@ Haptic feedback is absent in flexible endoscopic surgical robots due to the size
 
 <figure class="figure">
   <img src="https://pheelab.github.io/images/forcesensor2.jpg" alt="Force sensor">
-  <figcaption class="figure-caption">Force sensor description</figcaption>
+  <figcaption class="figure-caption">Force sensor integration with an articulated surgical gasper.</figcaption>
 </figure>
 
 ### Related Pubulication:
