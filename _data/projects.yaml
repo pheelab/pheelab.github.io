@@ -1,23 +1,19 @@
-- title: Foot-controlled Human-Machine Interface for Robotic Surgery
+- title: Endomaster
   subtitle:
   group: featured
-  image: images/foot.jpg
-  link: https://pheelab.github.io/2019/01/08/foot-robot.html
-  description: A novel teleoperation robotic endoscopic system commanded by one operator using the continuous and simultaneous movements of their two hands and one foot.
-#  repo: greenelab/lab-website-template
-  tags:
-    - surgical-robot
-    - HMI
+  image: images/endomaster.jpg
+  link: https://www.ntu.edu.sg/research/research-hub/news/detail/putting-research-to-work-prof-louis-phee
+  description:  a novel robotic-assisted surgical system for endoscopy that will significantly advance current endoscopic surgeries and enable surgeons to perform incision-less surgeries that could only be performed by open and laparoscopic surgery before.
 
-- title: Sewing up the Wounds
-  subtitle: A Robotic Suturing System for Flexible Endoscopy
+
+- title: EndoPil
+  subtitle: An ingestible weight control capsule
   group: featured
-  image: images/sewingup.jpg
-  link: https://pheelab.github.io/2020/02/11/sewing-wounds.html
-  description: a flexible endoscopic surgical robot to securely close the perforation by suturing - the gold standard of perforation closure. The tiny, dexterous robotic arms are inserted into the digestive tract via natural orifices (e.g., mouth or anus) and they are teleoperated by the clinician to repair the perforation.
+  image: images/endomaster.jpg
+  link: https://nuhsplus.edu.sg/article/endopil-an-ingestible-weight-control-capsule
+  description: An ingestible weight control capsule that can be activated by an external magnet to deploy an intragastric balloon inside the stomach.
 #  repo: greenelab/lab-website-template
-  tags:
-    - surgical-robot
+
 
 - title: Magnet-actuated capsule for Weight Management
   subtitle:
