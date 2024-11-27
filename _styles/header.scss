@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 200px;
+$logo-big: 80px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -43,11 +43,9 @@ header a {
 }
 
 .logo > * {
-  width: auto;
+  width: unset;
   height: 100%;
 }
-
-
 
 .title-text {
   display: flex;
