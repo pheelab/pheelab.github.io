@@ -20,7 +20,7 @@
         {% if svg %}
           {{ svg | file_read }}
         {% else %}
-          <img src="{{ logo | relative_url | uri_escape }}" alt="logo" style="width: 200px; height: auto;"> <!-- 调整这里的宽度值 -->
+          <img src="{{ logo | relative_url | uri_escape }}" alt="logo" style="width: 200px; height: 300px;"> <!-- 调整这里的宽度值 -->
 <!--          <img src="{{ logo | relative_url | uri_escape }}" alt="logo">-->
         {% endif %}
       </span>

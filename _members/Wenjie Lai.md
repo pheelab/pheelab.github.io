@@ -1,6 +1,6 @@
 ---
 name: Wenjie Lai
-image: images/wenjie.jpg
+image: images/wenjie2.jpg
 role: rf
 affiliation: Nanyang Technological University
 aliases:
