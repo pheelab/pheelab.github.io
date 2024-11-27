@@ -1,7 +1,6 @@
 ---
 name: Huu Duoc Nguyen (Davis)
 image: images/photo.jpg\
-order: 3
 role: rf
 affiliation: Nanyang Technological University
 aliases:

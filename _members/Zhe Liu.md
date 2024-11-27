@@ -5,7 +5,10 @@ order: 4
 role: rf
 affiliation: Nanyang Technological University
 links:
-  google-scholar: b0ULwDUAAAAJ&hl
+   email: zhe.liu@ntu.edu.sg
+   google-scholar: b0ULwDUAAAAJ&hl
+  orcid: 0000-0002-4002-714X
+
 ---
 
 Zhe Liu

@@ -1,7 +1,6 @@
 ---
 name: Jiajun Liu
 image: images/jiajun.jpg
-order: 1
 role: rf
 affiliation: Nanyang Technological University
 links:
