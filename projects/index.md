@@ -2,6 +2,7 @@
 title: Spinoff
 nav:
   order: 2
+  tooltip: Startups
 
 ---
 
@@ -20,7 +21,3 @@ ProjectsProjectsProjectsProjectsProjectsProjectsProjects
 {% include list.html component="card" data="projects" filter="group == 'spinoff'" %}
 
 {% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
