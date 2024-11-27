@@ -46,6 +46,11 @@ header a {
   width: unset;
   height: 100%;
 }
+.large-logo {
+  width: 300px;  /* 或其他你想要的大尺寸 */
+  height: auto;
+}
+
 
 .title-text {
   display: flex;

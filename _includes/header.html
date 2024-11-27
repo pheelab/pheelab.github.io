@@ -21,7 +21,13 @@
           {{ svg | file_read }}
         {% else %}
 <!--          <img src="{{ logo | relative_url | uri_escape }}" alt="logo" style="width: 200px; height: 300px;"> &lt;!&ndash; 调整这里的宽度值 &ndash;&gt;-->
-          <img src="{{ logo | relative_url | uri_escape }}" alt="logo">
+          <img src="{{ logo | relative_url | uri_escape }}" alt="logo"
+          {% if page.url == "/" %}
+            class="large-logo"
+          {% else %}
+            class="logo"
+          {% endif %}
+          >
         {% endif %}
       </span>
     {% endif %}
