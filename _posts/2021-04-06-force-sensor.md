@@ -4,7 +4,7 @@ image: images/forcesensor.jpg
 author: Wenjie Lai
 
 ---
-![Crepe](https://pheelab.github.io/images/forcesensor.jpg){:.mx-auto.d-block}
+![Force sensor](https://pheelab.github.io/images/forcesensor.jpg){: .figure-image}
 
 ![Force sensor](https://pheelab.github.io/images/forcesensor.jpg){:.center}
 
