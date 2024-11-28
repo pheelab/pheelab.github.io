@@ -1,5 +1,5 @@
 ---
-title: Spinoff
+title: Spin-off
 nav:
   order: 2
   tooltip: Startups
@@ -11,7 +11,7 @@ nav:
 ProjectsProjectsProjectsProjectsProjectsProjectsProjects
 
 
-## spinoff
+## spin-off
 
 {% include list.html component="card" data="projects" filter="group == 'spinoff'" %}
 
