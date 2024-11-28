@@ -16,5 +16,6 @@ A force sensor for a tendon-actuated mechanism, the force sensor comprising: a b
 ### Related Pubulication:
 {: .box-note}
 **Patent:** Lai, Wenjie, Lin Cao, and Soo Jay Louis Phee. "Force sensor for tendon-actuated mechanisms." U.S. Patent No. 11,906,376.
+
 ---
 *(c)  Pheelab. All rights reserved.*
