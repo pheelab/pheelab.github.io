@@ -2,7 +2,7 @@
 title: Magnet-actuated capsule for Weight Management
 image: images/magnet.jpg
 tags:
-  - Surgical Robotics
+  - Medical Devices
 ---
 ![Crepe](https://pheelab.github.io/images/magnet.jpg){: .mx-auto.d-block :}
 

@@ -4,7 +4,6 @@ image: images/growtwine.jpg
 author: Jiajun Liu
 tags:
   - Soft Robotics
-  - Force Sensor
 ---
 
 <figure class="figure">
