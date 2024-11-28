@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}From Research to Startups
 
-We want to create an ecosystem where people can take more risks, help one another and, as OneNTU, push up more startups
+We want to create an ecosystem where people can take more risks, help one another and, as OneNTU, push up more startups.
 
 
 ## spin-off
