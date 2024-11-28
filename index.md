@@ -30,7 +30,7 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine, with 
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/project.jpg"
   link="research"
   title="Our Research"
   text=text
