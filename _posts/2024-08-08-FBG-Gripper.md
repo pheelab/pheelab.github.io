@@ -18,7 +18,7 @@ Vertical farming, a sustainable key for urban agriculture, has garnered attentio
 ### Related Pubulication:
 
 {: .box-note}
-**Paper:** Lai, Wenjie, et al. "A Detachable FBG-Based Contact Force Sensor for Capturing Gripper-Vegetable Interactions." [2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, pp. 5673-5679.](https://doi.org/10.1109/ICRA57147.2024.10611433)
+**Paper:** Lai, Wenjie, et al. "A Detachable FBG-Based Contact Force Sensor for Capturing Gripper-Vegetable Interactions." [2024 IEEE 7th International Conference on Soft Robotics (RoboSoft). IEEE, 2024.](https://doi.org/10.1109/ICRA57147.2024.10611433)
 
 --- 
 *(c)  Pheelab. All rights reserved.*
