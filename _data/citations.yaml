@@ -1,174 +1,1782 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1055/a-2411-0892
+  title: Prospective single-arm trial on feasibility and safety of an endoscopic robotic
+    system for colonic endoscopic submucosal dissection
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Philip W. Y. Chiu
+  - Hon Chi Yip
+  - Simon Chu
+  - Shannon M. Chan
+  - Ho Shing Louis Lau
+  - Raymond S.Y. Tang
+  - Soo Jay Phee
+  - Khek Yu Ho
+  - Simon Siu Man Ng
+  publisher: Endoscopy
+  date: '2024-09-06'
+  link: https://doi.org/g8r86c
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/icra57147.2024.10611433
+  title: A Detachable FBG-Based Contact Force Sensor for Capturing Gripper-Vegetable
+    Interactions
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Wenjie Lai
+  - Jiajun Liu
+  - Bing Rui Sim
+  - Ming Rui Joel Tan
+  - Chidanand Hegde
+  - Shlomo Magdassi
+  - Soo Jay Phee
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/g8r86d
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/robosoft60065.2024.10521949
+  title: Smart Grow-and-Twine Gripper for Vegetable Harvesting in Vertical Farms
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jiajun Liu
+  - Wenjie Lai
+  - Bing Rui Sim
+  - Joel Ming Rui Tan
+  - Shlomo Magdassi
+  - Soo Jay Phee
+  publisher: 2024 IEEE 7th International Conference on Soft Robotics (RoboSoft)
+  date: '2024-04-14'
+  link: https://doi.org/g8r86f
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41598-024-57455-7
+  title: Feasibility of a low-cost magnet tracking device in confirming nasogastric
+    tube placement at point of care, a clinical trial
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Hao Li
+  - Kon Voi Tay
+  - Jiajun Liu
+  - Chern Yue Glen Ong
+  - Hau Wei Khoo
+  - Aijin Zhou
+  - Muneaki Miyasaka
+  - Soo Jay Phee
+  publisher: Scientific Reports
+  date: '2024-03-25'
+  link: https://doi.org/g8r86g
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1109/TMECH.2021.3111701
+  title: A Frictional Contact-Pattern-Based Model for Inserting a Flexible Shaft Into
+    Curved Channels
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Jiajun Liu
+  - Lin Cao
+  - Muneaki Miyasaka
+  - Soo Jay Phee
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2022-10-01'
+  link: https://doi.org/g8r86h
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/TMECH.2021.3071437
+  title: A Three-Axial Force Sensor Based on Fiber Bragg Gratings for Surgical Robots
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Wenjie Lai
+  - Lin Cao
+  - Jiajun Liu
+  - Swee Chuan Tjin
+  - Soo Jay Phee
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2022-04-01'
+  link: https://doi.org/gm2bqv
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/s10439-021-02766-3
+  title: A Three-Limb Teleoperated Robotic System with Foot Control for Flexible Endoscopic
+    Surgery
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yanpei Huang
+  - Wenjie Lai
+  - Lin Cao
+  - Jiajun Liu
+  - Xiaoguo Li
+  - Etienne Burdet
+  - Soo Jay Phee
+  publisher: Annals of Biomedical Engineering
+  date: '2021-04-08'
+  link: https://doi.org/g8r86j
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s21134491
+  title: A Low-Cost, Point-of-Care Test for Confirmation of Nasogastric Tube Placement
+    via Magnetic Field Tracking
+  authors:
+  - Muneaki Miyasaka
+  - Hao Li
+  - Kon Voi Tay
+  - Soo Jay Phee
+  publisher: Sensors
+  date: '2021-06-30'
+  link: https://doi.org/g8r86k
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/frobt.2021.757895
+  title: Can the Shape of a Planar Pathway Be Estimated Using Proximal Forces of Inserting
+    a Flexible Shaft?
+  authors:
+  - Jiajun Liu
+  - Lin Cao
+  - Soo Jay Phee
+  publisher: Frontiers in Robotics and AI
+  date: '2021-11-02'
+  link: https://doi.org/g7zpqz
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gie.2020.09.042
+  title: Colonic endoscopic submucosal dissection using a novel robotic system (with
+    video)
+  authors:
+  - Philip Wai Yan Chiu
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Gastrointestinal Endoscopy
+  date: '2021-05-01'
+  link: https://doi.org/gnpk4g
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10439-021-02737-8
+  title: 'Correction to: Two Magnetic Sensor Based Real-Time Tracking of Magnetically
+    Inflate Swallowable Intragastric Balloon'
+  authors:
+  - Muneaki Miyasaka
+  - Anthony Meng Huat Tiong
+  - Phuoc Thien Phan
+  - Yanpei Huang
+  - Hung Leng Kaan
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Annals of Biomedical Engineering
+  date: '2021-02-11'
+  link: https://doi.org/g8r86m
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LRA.2021.3062009
+  title: Design and Evaluation of a Foot-Controlled Robotic System for Endoscopic
+    Surgery
+  authors:
+  - Yanpei Huang
+  - Wenjie Lai
+  - Lin Cao
+  - Etienne Burdet
+  - Soo Jay Phee
+  publisher: IEEE Robotics and Automation Letters
+  date: '2021-04-01'
+  link: https://doi.org/gpbbnt
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10439-020-02692-w
+  title: 'EndoPil: A Magnetically Actuated Swallowable Capsule for Weight Management:
+    Development and Trials'
+  authors:
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Muneaki Miyasaka
+  - Lin Cao
+  - Hung Leng Kaan
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Annals of Biomedical Engineering
+  date: '2020-11-19'
+  link: https://doi.org/gpgd83
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3090411
+  title: Flexible and Deployable Colon Support Structure for Endoluminal Interventions
+  authors:
+  - Muneaki Miyasaka
+  - Jiajun Liu
+  - Lin Cao
+  - Wenjie Lai
+  - Xiaoguo Li
+  - Anthony Meng Huat Tiong
+  - Cheng Le Gerald Lim
+  - Banjamin Wei Jian Quek
+  - Hung Leng Kaan
+  - Dmitrii Dolgunov
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g8r86n
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SMC52423.2021.9659027
+  title: 'Trimanipulation: Evaluation of human performance in a 3-handed coordination
+    task'
+  authors:
+  - Yanpei Huang
+  - Jonathan Eden
+  - Ekaterina Ivanova
+  - Soo Jay Phee
+  - Etienne Burdet
+  publisher: 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+  date: '2021-10-17'
+  link: https://doi.org/g8r86p
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2104.06080
+  title: 'Trimanipulation: Evaluation of human performance in a 3-handed coordination
+    task'
+  authors:
+  - Yanpei Huang
+  - Jonathan Eden
+  - Ekaterina Ivanova
+  - Soo Jay Phee
+  - Etienne Burdet
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/g8r86q
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10439-020-02716-5
+  title: Two Magnetic Sensor Based Real-Time Tracking of Magnetically Inflated Swallowable
+    Intragastric Balloon
+  authors:
+  - Muneaki Miyasaka
+  - Anthony Meng Huat Tiong
+  - Phuoc Thien Phan
+  - Yanpei Huang
+  - Hung Leng Kaan
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Annals of Biomedical Engineering
+  date: '2021-01-15'
+  link: https://doi.org/g8r86r
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMECH.2020.2964295
+  title: A Subject-Specific Four-Degree-of-Freedom Foot Interface to Control a Surgical
+    Robot
+  authors:
+  - Yanpei Huang
+  - Etienne Burdet
+  - Lin Cao
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Soo Jay Phee
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2020-04-01'
+  link: https://doi.org/gqnbbs
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10439-020-02495-z
+  title: A Temperature-Dependent, Variable-Stiffness Endoscopic Robotic Manipulator
+    with Active Heating and Cooling
+  authors:
+  - Huu Minh Le
+  - Phuoc Thien Phan
+  - Cao Lin
+  - Liu Jiajun
+  - Soo Jay Phee
+  publisher: Annals of Biomedical Engineering
+  date: '2020-03-30'
+  link: https://doi.org/gn96hp
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2007.05927
+  title: A Three-limb Teleoperated Robotic System with Foot Control for Flexible Endoscopic
+    Surgery
+  authors:
+  - Yanpei Huang
+  - Wenjie Lai
+  - Lin Cao
+  - Jiajun Liu
+  - Xiaoguo Li
+  - Etienne Burdet
+  - Soo Jay Phee
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/g8r86s
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10439-019-02352-8
+  title: An Integrated Sensor-Model Approach for Haptic Feedback of Flexible Endoscopic
+    Robots
+  authors:
+  - Wenjie Lai
+  - Lin Cao
+  - Rex Xiao Tan
+  - Yung Chuen Tan
+  - Xiaoguo Li
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Swee Chuan Tjin
+  - Soo Jay Phee
+  publisher: Annals of Biomedical Engineering
+  date: '2019-09-04'
+  link: https://doi.org/gmsqg5
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMECH.2019.2951540
+  title: "Force Sensing With 1\_mm Fiber Bragg Gratings for Flexible Endoscopic Surgical\
+    \ Robots"
+  authors:
+  - Wenjie Lai
+  - Lin Cao
+  - Rex Xiao Tan
+  - Phuoc Thien Phan
+  - Jianzhong Hao
+  - Swee Chuan Tjin
+  - Soo Jay Phee
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2020-02-01'
+  link: https://doi.org/gk8gqk
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MRA.2019.2963161
+  title: 'Sewing up the Wounds: A Robotic Suturing System for Flexible Endoscopy'
+  authors:
+  - Lin Cao
+  - Xiaoguo Li
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Hung Leng Kaan
+  - Jiajun Liu
+  - Wenjie Lai
+  - Yanpei Huang
+  - Huu Minh Le
+  - Muneaki Miyasaka
+  - Khek Yu Ho
+  - Philip Wai Yan Chiu
+  - Soo Jay Phee
+  publisher: IEEE Robotics &amp; Automation Magazine
+  date: '2020-09-01'
+  link: https://doi.org/gnpk4d
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMRB.2020.3033137
+  title: 'Tri-Manipulation: An Evaluation of Human Performance in 3-Handed Teleoperation'
+  authors:
+  - Yanpei Huang
+  - Jonathan Eden
+  - Lin Cao
+  - Etienne Burdet
+  - Soo Jay Phee
+  publisher: IEEE Transactions on Medical Robotics and Bionics
+  date: '2020-11-01'
+  link: https://doi.org/g8r86t
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICRA.2019.8794247
+  title: A Novel Robotic Suturing System for Flexible Endoscopic Surgery
+  authors:
+  - Lin Cao
+  - Xiaoguo Li
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Jiajun Liu
+  - Soo Jay Phee
+  publisher: 2019 International Conference on Robotics and Automation (ICRA)
+  date: '2019-05-01'
+  link: https://doi.org/gnpnxq
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1902.04752
+  title: A Subject-Specific Four-Degree-of-Freedom Foot Interface to Control a Robot
+    Arm
+  authors:
+  - Yanpei Huang
+  - Etienne Burdet
+  - Lin Cao
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Soo Jay Phee
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/g8r86v
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijmecsci.2019.105129
+  title: Deep learning for haptic feedback of flexible endoscopic robot without prior
+    knowledge on sheath configuration
+  authors:
+  - Xiaoguo Li
+  - Anthony Meng Huat Tiong
+  - Lin Cao
+  - Wenjie Lai
+  - Phuoc Thien Phan
+  - Soo Jay Phee
+  publisher: International Journal of Mechanical Sciences
+  date: '2019-11-01'
+  link: https://doi.org/gpbbnn
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechmachtheory.2018.12.035
+  title: Distal-end force prediction of tendon-sheath mechanisms for flexible endoscopic
+    surgical robots using deep learning
+  authors:
+  - Xiaoguo Li
+  - Lin Cao
+  - Anthony Meng Huat Tiong
+  - Phuoc Thien Phan
+  - Soo Jay Phee
+  publisher: Mechanism and Machine Theory
+  date: '2019-04-01'
+  link: https://doi.org/gjhnrk
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LRA.2019.2926215
+  title: Performance Evaluation of a Foot Interface to Operate a Robot Arm
+  authors:
+  - Yanpei Huang
+  - Etienne Burdet
+  - Lin Cao
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Pai Zheng
+  - Soo Jay Phee
+  publisher: IEEE Robotics and Automation Letters
+  date: '2019-10-01'
+  link: https://doi.org/g8r86w
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1903.03266
+  title: Performance evaluation of a foot-controlled human-robot interface
+  authors:
+  - Yanpei Huang
+  - Etienne Burdet
+  - Lin Cao
+  - Phuoc Thien Phan
+  - Anthony Meng Huat Tiong
+  - Pai Zheng
+  - Soo Jay Phee
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/g8r86x
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICRA.2019.8793937
+  title: Pneumatically Actuated Deployable Tissue Distension Device for NOTES for
+    Colon
+  authors:
+  - Muneaki Miyasaka
+  - Jiajun Liu
+  - Lin Cao
+  - Soo Jay Phee
+  publisher: 2019 International Conference on Robotics and Automation (ICRA)
+  date: '2019-05-01'
+  link: https://doi.org/g8r86z
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechatronics.2018.05.012
+  title: Design and modelling of a variable stiffness manipulator for surgical robots
+  authors:
+  - Huu Minh Le
+  - Lin Cao
+  - Thanh Nho Do
+  - Soo Jay Phee
+  publisher: Mechatronics
+  date: '2018-08-01'
+  link: https://doi.org/gd426f
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechatronics.2018.03.004
+  title: Direct torque control for cable conduit mechanisms for the robotic foot for
+    footwear testing
+  authors:
+  - T.L. Nguyen
+  - S.J. Allen
+  - S.J. Phee
+  publisher: Mechatronics
+  date: '2018-05-01'
+  link: https://doi.org/gdkhmh
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICRA.2018.8461090
+  title: Distal End Force Sensing with Optical Fiber Bragg Gratings for Tendon-Sheath
+    Mechanisms in Flexible Endoscopic Robots
+  authors:
+  - Wenjie Lai
+  - Lin Cao
+  - Zhilin Xu
+  - Phuoc Thien Phan
+  - Ping Shum
+  - Soo Jay Phee
+  publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2018-05-01'
+  link: https://doi.org/gm2brn
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/rcs.1930
+  title: "Use of the EndoMaster robot\u2010assisted surgical system in transoral robotic\
+    \ surgery: A cadaveric study"
+  authors:
+  - Gerald Tay
+  - "Hiang\u2010Khoon Tan"
+  - Thien Khanh Nguyen
+  - Soo Jay Phee
+  - N. Gopalakrishna Iyer
+  publisher: The International Journal of Medical Robotics and Computer Assisted Surgery
+  date: '2018-06-05'
+  link: https://doi.org/gpbcpd
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1055/s-0042-121486
+  title: Feasibility of performing esophageal endoscopic submucosal dissection using
+    master and slave transluminal endoscopic robot
+  authors:
+  - Nobuyoshi Takeshita
+  - Khek Ho
+  - Soo Phee
+  - Jennie Wong
+  - Philip Chiu
+  publisher: Endoscopy
+  date: '2017-01-09'
+  link: https://doi.org/g8r862
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1702.02063
+  title: Performance Control of Tendon-Driven Endoscopic Surgical Robots With Friction
+    and Hysteresis
+  authors:
+  - Thanh Nho Do
+  - Tegoeh Tjahjowidodo
+  - Michael Wai Shing Lau
+  - Soo Jay Phee
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8r863
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASE.2015.2438319
+  title: Position Control of Asymmetric Nonlinearities for a Cable-Conduit Mechanism
+  authors:
+  - Thanh Nho Do
+  - Tegoeh Tjahjowidodo
+  - Michael Wai Shing Lau
+  - Soo Jay Phee
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2017-07-01'
+  link: https://doi.org/g8r864
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICRA.2017.7989209
+  title: Towards active variable stiffness manipulators for surgical robots
+  authors:
+  - Huu Minh Le
+  - Thanh Nho Do
+  - Lin Cao
+  - Soo Jay Phee
+  publisher: 2017 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2017-05-01'
+  link: https://doi.org/gn96hn
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep39486
+  title: A Magnetic Soft Endoscopic Capsule-Inflated Intragastric Balloon for Weight
+    Management
+  authors:
+  - Thanh Nho Do
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Scientific Reports
+  date: '2016-12-21'
+  link: https://doi.org/f9gg8g
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IROS.2016.7759372
+  title: A magnetic soft endoscopic capsule for non-surgical overweight and obese
+    treatments
+  authors:
+  - Thanh Nho Do
+  - Phuoc Thien Phan
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2016-10-01'
+  link: https://doi.org/g8r865
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.sna.2016.06.010
+  title: A survey on actuators-driven surgical robots
+  authors:
+  - Huu Minh Le
+  - Thanh Nho Do
+  - Soo Jay Phee
+  publisher: 'Sensors and Actuators A: Physical'
+  date: '2016-08-01'
+  link: https://doi.org/f84v8r
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBME.2015.2491327
+  title: Design and Control of a Mechatronic Tracheostomy Tube for Automated Tracheal
+    Suctioning
+  authors:
+  - Thanh Nho Do
+  - Tian En Timothy Seah
+  - Soo Jay Phee
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2016-06-01'
+  link: https://doi.org/f8qdkg
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0148035
+  title: Development and Testing of a Magnetically Actuated Capsule Endoscopy for
+    Obesity Treatment
+  authors:
+  - Thanh Nho Do
+  - Tian En Timothy Seah
+  - Ho Khek Yu
+  - Soo Jay Phee
+  publisher: PLOS ONE
+  date: '2016-01-27'
+  link: https://doi.org/f8qdrn
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0151711
+  title: 'Correction: Development and Testing of a Magnetically Actuated Capsule Endoscopy
+    for Obesity Treatment'
+  authors:
+  - Thanh Nho Do
+  - Tian En Timothy Seah
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: PLOS ONE
+  date: '2016-03-10'
+  link: https://doi.org/gpgfbx
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.rcim.2015.05.001
+  title: Real-time enhancement of tracking performances for cable-conduit mechanisms-driven
+    flexible robots
+  authors:
+  - T.N. Do
+  - T. Tjahjowidodo
+  - M.W.S. Lau
+  - S.J. Phee
+  publisher: Robotics and Computer-Integrated Manufacturing
+  date: '2016-02-01'
+  link: https://doi.org/ggnqtz
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechmachtheory.2014.11.003
+  title: 'A new approach of friction model for tendon-sheath actuated surgical systems:
+    Nonlinear modelling and parameter identification'
+  authors:
+  - T.N. Do
+  - T. Tjahjowidodo
+  - M.W.S. Lau
+  - S.J. Phee
+  publisher: Mechanism and Machine Theory
+  date: '2015-03-01'
+  link: https://doi.org/f6tc72
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechatronics.2015.04.002
+  title: "Adaptive control for enhancing tracking performances of flexible tendon\u2013\
+    sheath mechanism in natural orifice transluminal endoscopic surgery (NOTES)"
+  authors:
+  - T.N. Do
+  - T. Tjahjowidodo
+  - M.W.S. Lau
+  - S.J. Phee
+  publisher: Mechatronics
+  date: '2015-06-01'
+  link: https://doi.org/gr4qwb
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-26453-0_5
+  title: Adaptive Tracking Approach of Flexible Cable Conduit-Actuated NOTES Systems
+    for Early Gastric Cancer Treatments
+  authors:
+  - Thanh Nho Do
+  - Tegoeh Tjahjowidodo
+  - Michael Wai Shing Lau
+  - Soo Jay Phee
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2015-11-27'
+  link: https://doi.org/g8r866
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCIS.2015.7274578
+  title: Design and control of a novel mechatronic tracheostomy tube-inserted suction
+    catheter for automated tracheal suctioning
+  authors:
+  - Thanh Nho Do
+  - Tian En Timothy Seah
+  - Soo Jay Phee
+  publisher: 2015 IEEE 7th International Conference on Cybernetics and Intelligent
+    Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM)
+  date: '2015-07-01'
+  link: https://doi.org/g8r867
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TePRA.2015.7219674
+  title: Enhanced performances for cable-driven flexible robotic systems with asymmetric
+    backlash profile
+  authors:
+  - Thanh Nho Do
+  - Tegoeh Tjahjowidodo
+  - Michael Wai Shing Lau
+  - Soo Jay Phee
+  publisher: 2015 IEEE International Conference on Technologies for Practical Robot
+    Applications (TePRA)
+  date: '2015-05-01'
+  link: https://doi.org/g8r868
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3109/13645706.2014.996163
+  title: Flexible endoscopic robot
+  authors:
+  - Davide Lomanto
+  - Sujith Wijerathne
+  - Lawrence Khek Yu Ho
+  - Louis Soo Jay Phee
+  publisher: Minimally Invasive Therapy &amp; Allied Technologies
+  date: '2015-01-02'
+  link: https://doi.org/g8r869
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmpb.2015.03.001
+  title: Modeling and motion compensation of a bidirectional tendon-sheath actuated
+    system for robotic endoscopic surgery
+  authors:
+  - Zhenglong Sun
+  - Zheng Wang
+  - Soo Jay Phee
+  publisher: Computer Methods and Programs in Biomedicine
+  date: '2015-04-01'
+  link: https://doi.org/f67tjx
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ymssp.2015.01.001
+  title: Nonlinear friction modelling and compensation control of hysteresis phenomena
+    for a pair of tendon-sheath actuated surgical robots
+  authors:
+  - T.N. Do
+  - T. Tjahjowidodo
+  - M.W.S. Lau
+  - S.J. Phee
+  publisher: Mechanical Systems and Signal Processing
+  date: '2015-08-01'
+  link: https://doi.org/g8r87b
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5220/0005114701100117
+  title: Adaptive Control of Position Compensation for Cable-Conduit Mechanisms Used
+    in Flexible Surgical Robots
+  authors:
+  - T. N. Do
+  - T. Tjahjowidodo
+  - M. W. S. Lau
+  - S. J. Phee
+  publisher: Proceedings of the 11th International Conference on Informatics in Control,
+    Automation and Robotics
+  date: '2014-01-01'
+  link: https://doi.org/g8r87c
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s141019457
+  title: An Energy Efficient MAC Protocol for Multi-Hop Swallowable Body Sensor Networks
+  authors:
+  - Lin Lin
+  - Chengfeng Yang
+  - Kai Wong
+  - Hao Yan
+  - Junwen Shen
+  - Soo Phee
+  publisher: Sensors
+  date: '2014-10-17'
+  link: https://doi.org/gcfmx9
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ymssp.2013.08.014
+  title: An investigation of friction-based tendon sheath model appropriate for control
+    purposes
+  authors:
+  - T.N. Do
+  - T. Tjahjowidodo
+  - M.W.S. Lau
+  - S.J. Phee
+  publisher: Mechanical Systems and Signal Processing
+  date: '2014-01-01'
+  link: https://doi.org/f5nth5
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMECH.2013.2278613
+  title: Elongation Modeling and Compensation for the Flexible Tendon--Sheath System
+  authors:
+  - Zhenglong Sun
+  - Zheng Wang
+  - Soo Jay Phee
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2014-08-01'
+  link: https://doi.org/g8r87d
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00464-013-3149-3
+  title: 'Feasibility of full-thickness gastric resection using master and slave transluminal
+    endoscopic robot and closure by overstitch: a preclinical study'
+  authors:
+  - Philip W. Y. Chiu
+  - S. J. Phee
+  - Z. Wang
+  - Z. Sun
+  - Carmen C. Poon
+  - T. Yamamoto
+  - I. Penny
+  - Jennie Y. Y. Wong
+  - James Y. W. Lau
+  - K. Y. Ho
+  publisher: Surgical Endoscopy
+  date: '2013-08-29'
+  link: https://doi.org/f5mjm4
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechatronics.2013.11.003
+  title: Hysteresis modeling and position control of tendon-sheath mechanism in flexible
+    endoscopic systems
+  authors:
+  - T.N. Do
+  - T. Tjahjowidodo
+  - M.W.S. Lau
+  - T. Yamamoto
+  - S.J. Phee
+  publisher: Mechatronics
+  date: '2014-02-01'
+  link: https://doi.org/g8r87f
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/17452759.2013.862008
+  title: Exploiting 3D printing technology to develop robotic running foot for footwear
+    testing
+  authors:
+  - T.L. Nguyen
+  - S.J. Allen
+  - S.J. Phee
+  publisher: Virtual and Physical Prototyping
+  date: '2013-12-01'
+  link: https://doi.org/g8r87g
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmpb.2013.01.018
+  title: Haptic feedback and control of a flexible surgical endoscopic robot
+  authors:
+  - Zheng Wang
+  - Zhenglong Sun
+  - Soo Jay Phee
+  publisher: Computer Methods and Programs in Biomedicine
+  date: '2013-11-01'
+  link: https://doi.org/f496bq
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219519413500218
+  title: HAPTIC MODELING OF STOMACH FOR REAL-TIME PROPERTY AND FORCE ESTIMATION
+  authors:
+  - ZHENGLONG SUN
+  - ZHENG WANG
+  - SOO JAY PHEE
+  publisher: Journal of Mechanics in Medicine and Biology
+  date: '2013-05-14'
+  link: https://doi.org/g8r87h
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0263574713000386
+  title: Modeling tendon-sheath mechanism with flexible configurations for robot control
+  authors:
+  - Zheng Wang
+  - Zhenglong Sun
+  - Soo Jay Phee
+  publisher: Robotica
+  date: '2013-05-14'
+  link: https://doi.org/f5gn6p
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5220/0004409800050010
+  title: Nonlinear Modeling and Parameter Identification of Dynamic Friction Model
+    in Tendon Sheath for Flexible Endoscopic Systems
+  authors: []
+  publisher: Proceedings of the 10th International Conference on Informatics in Control,
+    Automation and Robotics
+  date: '2013-01-01'
+  link: https://doi.org/g8r87k
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HealthCom.2012.6379420
+  title: A novel TDMA-based MAC protocol for mobile in-vivo body sensor networks
+  authors:
+  - Lin Lin
+  - Kai-Juan Wong
+  - Arun Kumar
+  - Su-Lim Tan
+  - au Phee
+  publisher: 2012 IEEE 14th International Conference on e-Health Networking, Applications
+    and Services (Healthcom)
+  date: '2012-10-01'
+  link: https://doi.org/g8r87m
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1055/s-0032-1309404
+  title: 'Endoscopic submucosal dissection of gastric lesions by using a master and
+    slave transluminal endoscopic robot: an animal survival study'
+  authors:
+  - Z. Wang
+  - S. Phee
+  - D. Lomanto
+  - R. Goel
+  - P. Rebala
+  - Z. Sun
+  - S. Trasti
+  - N. Reddy
+  - J. Wong
+  - K. Ho
+  publisher: Endoscopy
+  date: '2012-06-21'
+  link: https://doi.org/f3354h
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BioRob.2012.6290279
+  title: 'Force feedback without sensor: A preliminary study on haptic modeling'
+  authors:
+  - Zhenglong Sun
+  - Zheng Wang
+  - Soo Jay Phee
+  publisher: 2012 4th IEEE RAS &amp; EMBS International Conference on Biomedical Robotics
+    and Biomechatronics (BioRob)
+  date: '2012-06-01'
+  link: https://doi.org/g8r87n
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cgh.2012.05.019
+  title: Robot-Assisted Endoscopic Submucosal Dissection Is Effective in Treating
+    Patients With Early-Stage Gastric Neoplasia
+  authors:
+  - Soo Jay Phee
+  - Nageshwar Reddy
+  - Philip W.Y. Chiu
+  - Pradeep Rebala
+  - Guduru V. Rao
+  - Zheng Wang
+  - Zhenglong Sun
+  - Jennie Y.Y. Wong
+  - "Khek\u2013Yu Ho"
+  publisher: Clinical Gastroenterology and Hepatology
+  date: '2012-10-01'
+  link: https://doi.org/f2j4xz
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICUFN.2011.5949142
+  title: An energy efficient MAC protocol for mobile in-vivo body sensor networks
+  authors:
+  - Lin Lin
+  - ' Kai-Juan Wong'
+  - Arun Kumar
+  - ' Su Lim Tan'
+  - ' Soo Jay Phee'
+  publisher: 2011 Third International Conference on Ubiquitous and Future Networks
+    (ICUFN)
+  date: '2011-06-01'
+  link: https://doi.org/fd4t5s
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11465-011-0203-5
+  title: "Capsule endoscopy\u2014A mechatronics perspective"
+  authors:
+  - Lin Lin
+  - Mahdi Rasouli
+  - Andy Prima Kencana
+  - Su Lim Tan
+  - Kai Juan Wong
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Frontiers of Mechanical Engineering
+  date: '2011-02-06'
+  link: https://doi.org/g8r87p
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1687-1499-2011-54
+  title: Evaluation of a TDMA-based energy efficient MAC protocol for multiple capsule
+    networks
+  authors:
+  - Lin Lin
+  - Kai-Juan Wong
+  - Arun Kumar
+  - Zongqing Lu
+  - Su-Lim Tan
+  - Soo Jay Phee
+  publisher: EURASIP Journal on Wireless Communications and Networking
+  date: '2011-08-04'
+  link: https://doi.org/fgthh8
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11465-011-0204-4
+  title: Ingestible wireless capsules for enhanced diagnostic inspection of gastrointestinal
+    tract
+  authors:
+  - Mahdi Rasouli
+  - Andy Prima Kencana
+  - Van An Huynh
+  - Eng Kiat Ting
+  - Joshua Chong
+  - Yue Lai
+  - Kai Juan Wong
+  - Su Lim Tan
+  - Soo Jay Phee
+  publisher: Frontiers of Mechanical Engineering in China
+  date: '2010-12-31'
+  link: https://doi.org/fpbr5k
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11465-011-0209-z
+  title: Personalized biomedical devices &amp; systems for healthcare applications
+  authors:
+  - I-Ming Chen
+  - Soo Jay Phee
+  - Zhiqiang Luo
+  - Chee Kian Lim
+  publisher: Frontiers of Mechanical Engineering in China
+  date: '2010-12-31'
+  link: https://doi.org/c6h2hk
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CAMAD.2011.5941109
+  title: TDMA based MAC protocol for wireless capsule communications
+  authors:
+  - Lin Lin
+  - Kai-Juan Wong
+  - Su-Lim Tan
+  - Soo Jay Phee
+  publisher: 2011 IEEE 16th International Workshop on Computer Aided Modeling and
+    Design of Communication Links and Networks (CAMAD)
+  date: '2011-06-01'
+  link: https://doi.org/b67czb
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1586/erd.11.54
+  title: The future of transluminal surgery
+  authors:
+  - Soo Jay Phee
+  - Zhenglong Sun
+  - Zheng Wang
+  - Jennie YY Wong
+  - Khek Yu Ho
+  publisher: Expert Review of Medical Devices
+  date: '2011-11-01'
+  link: https://doi.org/d5mvcb
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1260/2040-2295.2.4.459
+  title: 'Therapeutic Capsule Endoscopy: Opportunities and Challenges'
+  authors:
+  - Mahdi Rasouli
+  - Lin Lin
+  - Andy Prima Kencana
+  - Kai-Juan Wong
+  - Su-Lim Tan
+  - Khek Yu Ho
+  - Soo Jay Phee
+  publisher: Journal of Healthcare Engineering
+  date: '2011-01-01'
+  link: https://doi.org/djdnj7
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RAMECH.2011.6070487
+  title: Towards haptics enabled surgical robotic system for NOTES
+  authors:
+  - Zhenglong Sun
+  - Zheng Wang
+  - Soo Jay Phee
+  publisher: 2011 IEEE 5th International Conference on Robotics, Automation and Mechatronics
+    (RAM)
+  date: '2011-09-01'
+  link: https://doi.org/fwx6hq
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2010.5627585
+  title: An ingestible wireless capsule for treatment of obesity
+  authors:
+  - Andy P Kencana
+  - Mahdi Rasouli
+  - Van A Huynh
+  - Eng K Ting
+  - Joshua C Y Lai
+  - Quang D Q Huy
+  - Su L Tan
+  - Kai J Wong
+  - Soo J Phee
+  publisher: 2010 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology
+  date: '2010-08-01'
+  link: https://doi.org/fdwkrr
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1243/09544062JMES1880
+  title: Design of a master and slave transluminal endoscopic robot for natural orifice
+    transluminal endoscopic surgery
+  authors:
+  - S J Phee
+  - A P Kencana
+  - V A Huynh
+  - Z L Sun
+  - S C Low
+  - K Yang
+  - D Lomanto
+  - K Y Ho
+  publisher: 'Proceedings of the Institution of Mechanical Engineers, Part C: Journal
+    of Mechanical Engineering Science'
+  date: '2010-04-27'
+  link: https://doi.org/bg38sk
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gie.2010.04.009
+  title: Endoscopic submucosal dissection of gastric lesions by using a Master and
+    Slave Transluminal Endoscopic Robot (MASTER)
+  authors:
+  - Khek-Yu Ho
+  - Soo Jay Phee
+  - Asim Shabbir
+  - Soon Chiang Low
+  - Van An Huynh
+  - Andy Prima Kencana
+  - Kai Yang
+  - Davide Lomanto
+  - Bok Yan Jimmy So
+  - Y.Y. Jennie Wong
+  - S.C. Sydney Chung
+  publisher: Gastrointestinal Endoscopy
+  date: '2010-09-01'
+  link: https://doi.org/cndqg9
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1586/erd.10.20
+  title: Energy sources and their development for application in medical devices
+  authors:
+  - Mahdi Rasouli
+  - Louis Soo Jay Phee
+  publisher: Expert Review of Medical Devices
+  date: '2010-09-01'
+  link: https://doi.org/fw84fr
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RAMECH.2010.5513223
+  title: Enhancement of spatial orientation and haptic perception for master-slave
+    robotic Natural Orifice Transluminal Endoscopic Surgery (NOTES)
+  authors:
+  - K. Yang
+  - Z.L. Sun
+  - A.P. Kencana
+  - V.A. Huynh
+  - M. Rasouli
+  - S. J. Phee
+  - D. Lomanto
+  - K.Y. Ho
+  publisher: 2010 IEEE Conference on Robotics, Automation and Mechatronics
+  date: '2010-06-01'
+  link: https://doi.org/cgv7z2
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11517-009-0568-3
+  title: Interventional navigation systems for treatment of unresectable liver tumor
+  authors:
+  - Soo Jay Phee
+  - Kai Yang
+  publisher: Medical &amp; Biological Engineering &amp; Computing
+  date: '2009-12-30'
+  link: https://doi.org/dwvkg7
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00464-010-0955-8
+  title: Natural orifice transgastric endoscopic wedge hepatic resection in an experimental
+    model using an intuitively controlled master and slave transluminal endoscopic
+    robot (MASTER)
+  authors:
+  - S. J. Phee
+  - K. Y. Ho
+  - D. Lomanto
+  - S. C. Low
+  - V. A. Huynh
+  - A. P. Kencana
+  - K. Yang
+  - Z. L. Sun
+  - S. C. Sydney Chung
+  publisher: Surgical Endoscopy
+  date: '2010-02-23'
+  link: https://doi.org/dmcqg5
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S026357470999083X
+  title: Tendon sheath analysis for estimation of distal end force and elongation
+    for sensorless distal end
+  authors:
+  - S. J. Phee
+  - S. C. Low
+  - P. Dario
+  - A. Menciassi
+  publisher: Robotica
+  date: '2010-02-10'
+  link: https://doi.org/d5ms3s
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RAMECH.2010.5513210
+  title: Wireless capsule endoscopes for enhanced diagnostic inspection of gastrointestinal
+    tract
+  authors:
+  - Mahdi Rasouli
+  - Andy Prima Kencana
+  - ' Van An Huynh'
+  - ' Eng Kiat'
+  - ' Joshua Chong Yue Lai'
+  - ' Louis Soo Jay Phee'
+  publisher: 2010 IEEE Conference on Robotics, Automation and Mechatronics
+  date: '2010-06-01'
+  link: https://doi.org/cvkm2v
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11548-009-0301-6
+  title: A sub-millimetric, 0.25 mN resolution fully integrated fiber-optic force-sensing
+    tool for retinal microsurgery
+  authors:
+  - Iulian Iordachita
+  - Zhenglong Sun
+  - Marcin Balicki
+  - Jin U. Kang
+  - Soo Jay Phee
+  - James Handa
+  - Peter Gehlbach
+  - Russell Taylor
+  publisher: International Journal of Computer Assisted Radiology and Surgery
+  date: '2009-04-15'
+  link: https://doi.org/c4gbsj
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BSN.2009.34
+  title: Asymmetric Multihop Networks for Multi-capsule Communications within the
+    Gastrointestinal Tract
+  authors:
+  - Lin Lin
+  - Kai-Juan Wong
+  - Su-Lim Tan
+  - Soo-Jay Phee
+  publisher: 2009 Sixth International Workshop on Wearable and Implantable Body Sensor
+    Networks
+  date: '2009-06-01'
+  link: https://doi.org/bz7pnd
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4028/www.scientific.net/MSF.614.243
+  title: Formation of Protrusive Micro/Nano Patterns atop Shape Memory Polymers
+  authors:
+  - W.M. Huang
+  - N. Liu
+  - X. Lan
+  - J.Q. Lin
+  - J.H. Pan
+  - Jin Song Leng
+  - S.J. Phee
+  - H. Fan
+  - Y.J. Liu
+  - T.H. Tong
+  publisher: Materials Science Forum
+  date: '2009-03-01'
+  link: https://doi.org/dh8n32
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2009.5333413
+  title: Master and slave transluminal endoscopic robot (MASTER) for natural Orifice
+    Transluminal Endoscopic Surgery (NOTES)
+  authors:
+  - S.J. Phee
+  - S.C. Low
+  - V.A. Huynh
+  - A.P. Kencana
+  - Z.L. Sun
+  - K. Yang
+  publisher: 2009 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology Society
+  date: '2009-09-01'
+  link: https://doi.org/cmm3h9
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2009.5333115
+  title: Modular &amp;#x201C;Plug-and-Play&amp;#x201D; capsules for multi-capsule
+    environment in the gastrointestinal tract
+  authors:
+  - S.J. Phee
+  - E.K. Ting
+  - L. Lin
+  - V.A. Huynh
+  - A.P. Kencana
+  - K.J. Wong
+  - S.L. Tan
+  publisher: 2009 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology Society
+  date: '2009-09-01'
+  link: https://doi.org/dq654m
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TENCON.2009.5396013
+  title: Real-time, non-vision sensory feedback during minimally invasive surgery
+  authors:
+  - Safar Pour Abbas
+  - Sunita Chauhan
+  - Soo Jay Phee
+  - Gih Keong Lau
+  publisher: TENCON 2009 - 2009 IEEE Region 10 Conference
+  date: '2009-11-01'
+  link: https://doi.org/dcpvxz
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AIM.2009.5229991
+  title: Tendon sheath analysis for estimation of distal end force and elongation
+  authors:
+  - Low Soon Chiang
+  - Phee Soo Jay
+  - Pietro Valdastri
+  - Arianna Menciassi
+  - Paolo Dario
+  publisher: 2009 IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+  date: '2009-07-01'
+  link: https://doi.org/djfm96
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.2829388
+  title: Electrical conductivity of thermoresponsive shape-memory polymer with embedded
+    micron sized Ni powder chains
+  authors:
+  - J. S. Leng
+  - X. Lan
+  - Y. J. Liu
+  - S. Y. Du
+  - W. M. Huang
+  - N. Liu
+  - S. J. Phee
+  - Q. Yuan
+  publisher: Applied Physics Letters
+  date: '2008-01-07'
+  link: https://doi.org/fbpdbz
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0960-1317/18/2/027001
+  title: Formation of micro protrusion arrays atop shape memory polymer
+  authors:
+  - N Liu
+  - Q Xie
+  - W M Huang
+  - S J Phee
+  - N Q Guo
+  publisher: Journal of Micromechanics and Microengineering
+  date: '2008-01-04'
+  link: https://doi.org/bt65r3
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.776546
+  title: Improving the electrical conductivity by forming Ni powder chains in a shape-memory
+    polymer filled with carbon black
+  authors:
+  - Xin Lan
+  - Wei Min Huang
+  - Na Liu
+  - Sy Phee
+  - Jin Song Leng
+  - Shan Yi Du
+  publisher: SPIE Proceedings
+  date: '2008-03-27'
+  link: https://doi.org/fb82th
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISCE.2008.4559485
+  title: In-vivo wireless capsule for health monitoring
+  authors:
+  - ' Lin Lin'
+  - ' Kai-Juan Wong'
+  - ' Su-Lim Tan'
+  - ' Soo-Jay Phee'
+  publisher: 2008 IEEE International Symposium on Consumer Electronics
+  date: '2008-04-01'
+  link: https://doi.org/fgmqrc
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RAMECH.2008.4681425
+  title: Master and Slave Robotic System For Natural Orifice Transluminal Endoscopic
+    Surgery
+  authors:
+  - A.P. Kencana
+  - S.J. Phee
+  - S.C. Low
+  - Z.L. Sun
+  - V.A. Huynh
+  - K.Y. Ho
+  - S.C Chung
+  publisher: 2008 IEEE Conference on Robotics, Automation and Mechatronics
+  date: '2008-09-01'
+  link: https://doi.org/cctm52
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/rcs.179
+  title: "Robotic system for no\u2010scar gastrointestinal surgery"
+  authors:
+  - S. J. Phee
+  - S. C. Low
+  - Z. L. Sun
+  - K. Y. Ho
+  - W. M. Huang
+  - Z. M. Thant
+  publisher: The International Journal of Medical Robotics and Computer Assisted Surgery
+  date: '2008-03-01'
+  link: https://doi.org/djfc2m
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0964-1726/17/4/045007
+  title: The glass transition temperature of polyurethane shape memory polymer reinforced
+    with treated/non-treated attapulgite (playgorskite) clay in dry and wet conditions
+  authors:
+  - G H Pan
+  - W M Huang
+  - Z C Ng
+  - N Liu
+  - S J Phee
+  publisher: Smart Materials and Structures
+  date: '2008-05-27'
+  link: https://doi.org/b6rf9p
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0964-1726/16/6/N01
+  title: A generic approach for producing various protrusive shapes on different size
+    scales using shape-memory polymer
+  authors:
+  - N Liu
+  - W M Huang
+  - S J Phee
+  - H Fan
+  - K L Chew
+  publisher: Smart Materials and Structures
+  date: '2007-10-10'
+  link: https://doi.org/fc8996
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0218625X07010780
+  title: 'A SECRET GARDEN OF MICRO BUTTERFLIES: PHENOMENON AND MECHANISM'
+  authors:
+  - N. LIU
+  - W. M. HUANG
+  - S. J. PHEE
+  publisher: Surface Review and Letters
+  date: '2007-12-01'
+  link: https://doi.org/dj5r45
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.779663
+  title: Water-responsive programmable shape memory polymer devices
+  authors:
+  - W. M. Huang
+  - B. Yang
+  - N. Liu
+  - S. J. Phee
+  publisher: SPIE Proceedings
+  date: '2007-07-18'
+  link: https://doi.org/bsjw9h
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219843606000904
+  title: "A REVIEW OF MASTER\u2013SLAVE ROBOTIC SYSTEMS FOR SURGERY"
+  authors:
+  - S. C. LOW
+  - L. PHEE
+  publisher: International Journal of Humanoid Robotics
+  date: '2006-12-01'
+  link: https://doi.org/c87pfn
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219843606000862
+  title: EFFICIENT 3D PROSTATE SURFACE DETECTION FOR ULTRASOUND GUIDED ROBOTIC BIOPSY
+  authors:
+  - FAN SHAO
+  - KECK VOON LING
+  - LOUIS PHEE
+  - WAN SING NG
+  - DI XIAO
+  publisher: International Journal of Humanoid Robotics
+  date: '2006-12-01'
+  link: https://doi.org/dbw8dt
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCIS.2006.252240
+  title: Feasibility Study of a Force Feedback Controlled Robotic System for Bone
+    Milling
+  authors:
+  - Kwang Lee Beng
+  - Louis Phee Soo Jay
+  publisher: 2006 IEEE Conference on Cybernetics and Intelligent Systems
+  date: '2006-06-01'
+  link: https://doi.org/fd7fxz
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MEMB.2006.1636351
+  title: Locomotion techniques for robotic colonoscopy
+  authors:
+  - I. Kassim
+  - L. Phee
+  - W.S. Ng
+  - ' Feng Gong'
+  - P. Dario
+  - C.A. Mosse
+  publisher: IEEE Engineering in Medicine and Biology Magazine
+  date: '2006-05-01'
+  link: https://doi.org/fq34t2
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEMBS.2006.259233
+  title: Master-Slave Robotic System for Therapeutic Gastrointestinal Endoscopic Procedures
+  authors:
+  - S.C. Low
+  - S.W. Tang
+  - Z.M. Thant
+  - L. Phee
+  - K.Y. Ho
+  - S.C Chung
+  publisher: 2006 International Conference of the IEEE Engineering in Medicine and
+    Biology Society
+  date: '2006-08-01'
+  link: https://doi.org/cgd35x
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0219843606000850
+  title: ULTRASOUND GUIDED ROBOTIC BIOPSY OF THE PROSTATE
+  authors:
+  - LOUIS PHEE
+  - JOHN YUEN
+  - DI XIAO
+  - CHEE FATT CHAN
+  - HENRY HO
+  - CHOON HUA THNG
+  - PUAY HOON TAN
+  - CHRISTOPHER CHENG
+  - WAN SING NG
+  publisher: International Journal of Humanoid Robotics
+  date: '2006-12-01'
+  link: https://doi.org/cnh3jn
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ROBOT.2005.1570297
+  title: Ultrasound Guided Robotic System for Transperineal Biopsy of the Prostate
+  authors:
+  - L. Phee
+  - ' Di Xiao'
+  - J. Yuen
+  - ' Chee Fatt Chan'
+  - H. Ho
+  - ' Choon Hua Thng'
+  - ' Christopher Cheng'
+  - ' Wan Sing Ng'
+  publisher: Proceedings of the 2005 IEEE International Conference on Robotics and
+    Automation
+  date: ''
+  link: https://doi.org/bfzszc
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/01.ju.0000118380.90871.ef
+  title: ENDORECTAL MAGNETIC RESONANCE IMAGING AND SPECTROSCOPY FOR THE DETECTION
+    OF TUMOR FOCI IN MEN WITH PRIOR NEGATIVE TRANSRECTAL ULTRASOUND PROSTATE BIOPSY
+  authors:
+  - J.S.P. YUEN
+  - C.H. THNG
+  - P.H. TAN
+  - L.W. KHIN
+  - S.J.L. PHEE
+  - D. XIAO
+  - W.K.O. LAU
+  - W.S. NG
+  - C.W.S. CHENG
+  publisher: Journal of Urology
+  date: '2004-04-01'
+  link: https://doi.org/bqpwjk
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1243/095965103765832858
+  title: Control and safety aspects of medical robots for treatment of diseases of
+    the prostate
+  authors:
+  - L Phee
+  - D Xiao
+  - J Yuen
+  - W Lau
+  - C Cheng
+  - W S Ng
+  publisher: 'Proceedings of the Institution of Mechanical Engineers, Part I: Journal
+    of Systems and Control Engineering'
+  date: '2003-05-01'
+  link: https://doi.org/d5jvm3
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBME.2002.1001976
+  title: Analysis and development of locomotion devices for the gastrointestinal tract
+  authors:
+  - L. Phee
+  - D. Accoto
+  - A. Menciassi
+  - C. Stefanini
+  - M.C. Carrozza
+  - P. Dario
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2002-06-01'
+  link: https://doi.org/fp8ff9
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1443-1661.2000.00039.x
+  title: DEVELOPMENT OF A ROBOTIC COLONOSCOPE
+  authors:
+  - Wan Sing Ng
+  - Soo Jay Phee
+  - Choen Seow
+  - Brian Lawrence Davies
+  publisher: Digestive Endoscopy
+  date: '2000-04-01'
+  link: https://doi.org/d2fc8z
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/51.677173
+  title: Automation of colonoscopy. II. Visual control aspects
+  authors:
+  - S.J. Phee
+  - W.S. Ng
+  - I.M. Chen
+  - F. Seow-Choen
+  - B.L. Davies
+  publisher: IEEE Engineering in Medicine and Biology Magazine
+  date: '1998-01-01'
+  link: https://doi.org/d5nnw3
+  orcid: 0000-0002-9709-5848
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/51.637122
+  title: Locomotion and steering aspects in automation of colonoscopy. I. A literature
+    review
+  authors:
+  - S.J. Phee
+  - W.S. Ng
+  - I.M. Chen
+  - F. Seow-Choen
+  - B.L. Davies
+  publisher: IEEE Engineering in Medicine and Biology Magazine
+  date: '1997-11-01'
+  link: https://doi.org/frvz7x
+  orcid: 0000-0002-9709-5848
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +1792,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +1808,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
