@@ -9,10 +9,15 @@
 - title: EndoPil
   subtitle: An ingestible weight control capsule
   group: spinoff
-  image: images/endomaster.jpg
+  image: images/endopil.jpg
   link: https://nuhsplus.edu.sg/article/endopil-an-ingestible-weight-control-capsule
   description: An ingestible weight control capsule that can be activated by an external magnet to deploy an intragastric balloon inside the stomach.
 #  repo: greenelab/lab-website-template
+
+
+
+
+
 
 
 - title: Magnet-actuated capsule for Weight Management
