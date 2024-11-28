@@ -20,7 +20,7 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine, with 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -46,7 +46,7 @@ We are seeking to bolster innovation and entrepreneurship at NTU
 {%
   include button.html
   link="projects"
-  text="Browse our startups"
+  text="See our startups"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
