@@ -10,5 +10,5 @@ links:
 
 ---
 
-Zhe Liu
+Zhe Liu obtained his Ph.D. from the Robotics Institute at Beihang University in 2024. Currently, he is a Research Fellow at Nanyang Technological University. His research interests include soft sensing, soft robotics, and e-skin.
 
