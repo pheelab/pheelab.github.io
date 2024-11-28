@@ -30,12 +30,11 @@ nav:
 %}
 
 
+
+{% include section.html background="images/background.jpg" dark=true %}
+
 ### About NTU Singapore
 
-{% include section.html dark=true %}
-
-
-{% capture col1 %}
 
 A research-intensive public university, Nanyang Technological University, Singapore (NTU Singapore) has 35,000 undergraduate and postgraduate students in the Business, Computing & Data Science, Engineering, Humanities, Arts, & Social Sciences, Medicine, Science, and Graduate colleges.
 
@@ -45,8 +44,5 @@ Under the NTU Smart Campus vision, the University harnesses the power of digital
 
 Ranked amongst the world’s top universities, the University’s main campus is also frequently listed among the world’s most beautiful. Known for its sustainability, NTU has achieved 100% Green Mark Platinum certification for all its eligible building projects. Apart from its main campus, NTU also has a medical campus in Novena, Singapore’s healthcare district.
 
-{% endcapture %}
-
-
-{% include cols.html col1=col1 %}
+{% include section.html %}
 
