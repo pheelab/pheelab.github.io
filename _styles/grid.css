@@ -1,6 +1,6 @@
 .grid {
   display: grid;
-  --repeat: 3;
+  --repeat: 4;
   grid-template-columns: repeat(var(--repeat), 1fr);
   justify-content: center;
   align-items: flex-start;
