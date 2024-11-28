@@ -36,7 +36,7 @@ nav:
 ### About NTU Singapore
 
 
-A research-intensive public university, Nanyang Technological University, Singapore (NTU Singapore) has 35,000 undergraduate and postgraduate students in the Business, Computing & Data Science, Engineering, Humanities, Arts, & Social Sciences, Medicine, Science, and Graduate colleges.
+A research-intensive public university, Nanyang Technological University, Singapore ([NTU Singapore](https://www.ntu.edu.sg/)) has 35,000 undergraduate and postgraduate students in the Business, Computing & Data Science, Engineering, Humanities, Arts, & Social Sciences, Medicine, Science, and Graduate colleges.
 
 NTU is also home to world-renowned autonomous institutes – the National Institute of Education, S Rajaratnam School of International Studies and Singapore Centre for Environmental Life Sciences Engineering – and various leading research centres such as the Earth Observatory of Singapore, Nanyang Environment & Water Research Institute and Energy Research Institute @ NTU (ERI@N).
 
