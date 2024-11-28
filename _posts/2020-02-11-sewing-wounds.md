@@ -2,7 +2,7 @@
 title: Sewing up the Wounds： A Robotic Suturing System for Flexible Endoscopy
 image: images/sewingup.jpg
 tags:
-  - Surgical Robot
+  - Surgical Robotics
 ---
 ![Crepe](https://pheelab.github.io/images/sewingup.jpg){: .mx-auto.d-block :}
 

@@ -1,6 +1,9 @@
 ---
 title: Variable Stiffness Manipulator for Surgical Robotic Application
 image: images/variabale stiffness manipulator.jpg
+tags:
+  - Surgical Robotics
+  - Soft Robotics
 ---
 <figure class="figure">
   <img src="https://pheelab.github.io/images/variabale stiffness manipulator.jpg" alt="Force sensor">

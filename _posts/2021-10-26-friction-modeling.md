@@ -2,6 +2,9 @@
 title: Friction Modeling of Flexible Surgical Tools
 image: images/frictionmodeling.jpg
 author: Jiajun Liu
+tags:
+  - Surgical Robotics
+  - Soft Robotics
 ---
 ### A Frictional Contact-Pattern-Based Model for Inserting a Flexible Shaft Into Curved Channels
 

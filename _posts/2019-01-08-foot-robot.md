@@ -2,7 +2,7 @@
 title: Foot-controlled Human-Machine Interface for Robotic Surgery
 image: images/foot.jpg
 tags:
-  - Surgical Robot
+  - Surgical Robotics
   - Human-Machine Interface
 ---
 ![Crepe](https://pheelab.github.io/images/footinterface.jpg){: .mx-auto.d-block :}

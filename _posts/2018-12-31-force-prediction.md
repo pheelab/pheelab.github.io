@@ -1,6 +1,9 @@
 ---
 title: Deep learning for haptic force estimation
 image: images/forceprediction.jpg
+tags:
+  - Surgical Robotics
+  - Force Sensor
 
 ---
 
