@@ -12,7 +12,7 @@ Professor Louis Phee is the Vice President (Innovation & Entrepreneurship) and t
 
 {% capture text %}
 
-Our research works focus on Medical Robotics and Mechatronics in Medicine, with a special emphasis on the following areas:
+Our research works focus on Medical Robotics, Soft Robotics and Mechatronics in Medicine, with a special emphasis on the following areas:
 * Magnetically Actuated Ingestible Weight Management Capsule
 * Advanced Medical Robotics for Minimally Invasive Surgery
 * SGSR: An Extra Dimension of Grasping
