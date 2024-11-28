@@ -12,8 +12,11 @@ Professor Louis Phee is the Vice President (Innovation & Entrepreneurship) and t
 
 {% capture text %}
 
-Our research works focus on Medical Robotics and Mechatronics in Medicine.
-
+Our research works focus on Medical Robotics and Mechatronics in Medicine, with a special emphasis on the following areas:
+* Magnetically Actuated Ingestible Weight Management Capsule
+* Advanced Medical Robotics for Minimally Invasive Surgery
+* SGSR: An Extra Dimension of Grasping
+* Robotic Thyroidectomy
 {%
   include button.html
   link="research"
@@ -27,23 +30,23 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {%
   include feature.html
-  image="images/endomaster.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
+
+
+
 {% capture text %}
 
-* Magnetically Actuated Ingestible Weight Management Capsule
-* Advanced Medical Robotics for Minimally Invasive Surgery
-* SGSR: An Extra Dimension of Grasping
-* Robotic Thyroidectomy
+We are seeking to bolster innovation and entrepreneurship at NTU
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our startups"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -53,13 +56,17 @@ Our research works focus on Medical Robotics and Mechatronics in Medicine.
 
 {%
   include feature.html
-  image="images/projects.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/endomaster.jpg"
+  link="spinoff"
+  title="Our Spinoffs"
   flip=true
   style="bare"
   text=text
 %}
+
+
+
+
 
 {% capture text %}
 
