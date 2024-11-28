@@ -3,7 +3,7 @@ title: Device And Method For Providing A Volume In A Lumen
 image: images/volumen.jpg
 tags:
   - Medical Devices
-   -Patent
+  - Patent
 ---
 
 <figure class="figure">
@@ -15,7 +15,7 @@ A device to provide a volume in a lumen for endoscopic procedures is provided. T
 
 
 ### Related Pubulication:
-
+{: .box-note}
 **Patent:** Miyasaka, Muneaki, Jiajun Liu, and Soo Jay Louis Phee. "Device And Method For Providing A Volume In A Lumen." U.S. Patent Application No. 18/277,031.
 ---
 *(c)  Pheelab. All rights reserved.*
