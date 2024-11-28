@@ -57,7 +57,7 @@ We are seeking to bolster innovation and entrepreneurship at NTU
 {%
   include feature.html
   image="images/endomaster.jpg"
-  link="spinoff"
+  link="projects"
   title="Our Spinoffs"
   flip=true
   style="bare"
