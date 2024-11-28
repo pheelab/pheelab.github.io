@@ -2,7 +2,7 @@
 title: Force sensor for tendon-actuated mechanisms
 image: images/forcesensor_tam.jpg
 tags:
-  - Medical Devices
+  - Force Sensor
   - Patent
 ---
 
