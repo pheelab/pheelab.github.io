@@ -1,5 +1,5 @@
 ---
-title: Trimanipulation: Evaluation of human performance in a 3-handed coordination task
+title: Trimanipulation：Evaluation of human performance in a 3-handed coordination task
 image: images/trimanipulation.jpg
 tags:
   - Human-Machine Interface
