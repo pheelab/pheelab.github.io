@@ -1,6 +1,7 @@
 ---
 title: Foot-controlled Human-Machine Interface for Robotic Surgery
 image: images/foot.jpg
+author: Wenjie Lai
 tags:
   - Surgical Robotics
   - Human-Machine Interface
