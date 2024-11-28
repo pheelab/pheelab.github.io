@@ -1,7 +1,6 @@
 ---
 title: A Detachable FBG-Based Contact Force Sensor for Capturing Gripper-Vegetable Interactions
 image: images/fbggripper.jpg
-author: Wenjie Lai
 tags:
   - Soft Robotics
   - Force Sensor

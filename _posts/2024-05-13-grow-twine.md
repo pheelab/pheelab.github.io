@@ -1,7 +1,6 @@
 ---
 title: Smart Grow-and-Twine Gripper for Vegetable Harvesting in Vertical Farms
 image: images/growtwine.jpg
-author: Jiajun Liu
 tags:
   - Soft Robotics
 ---

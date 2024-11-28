@@ -1,7 +1,6 @@
 ---
 title: Friction Modeling of Flexible Surgical Tools
 image: images/frictionmodeling.jpg
-author: Jiajun Liu
 tags:
   - Surgical Robotics
   - Soft Robotics
