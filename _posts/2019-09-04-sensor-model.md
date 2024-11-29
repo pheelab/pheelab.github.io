@@ -4,6 +4,7 @@ image: images/sensormodel.jpg
 tags:
   - Surgical Robotics
   - Soft Robotics
+  - Force Sensor
 ---
 
 <figure class="figure">
