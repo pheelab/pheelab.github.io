@@ -14,7 +14,7 @@ A magnetic sensor-based tracking system, a method, and computer readable media f
 
 ### Related Pubulication:
 {: .box-note}
-**Patent:** Miyasaka, Muneaki and Soo Jay Louis Phee. "Magnetic field based tracking methods and systems." [U.S. Patent Application No. 18/248,724](https://patents.google.com/patent/US20230404681A1).
+**Patent:** Miyasaka, Muneaki and Soo Jay Louis Phee. "Magnetic field based tracking methods and systems." [U.S. Patent No.US20230404681A1](https://patents.google.com/patent/US20230404681A1).
 
 ---
 *(c)  Pheelab. All rights reserved.*
