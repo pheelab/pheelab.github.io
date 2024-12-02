@@ -7,6 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+{%
+  include button.html
+  type="phone"
+  text="Academic Profile"
+  link="https://dr.ntu.edu.sg/cris/rp/rp00081"
+%}
 
 {%
   include button.html
