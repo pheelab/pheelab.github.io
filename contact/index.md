@@ -9,7 +9,7 @@ nav:
 
 {%
   include button.html
-  type="phone"
+  type="search"
   text="Academic Profile"
   link="https://dr.ntu.edu.sg/cris/rp/rp00081"
 %}
